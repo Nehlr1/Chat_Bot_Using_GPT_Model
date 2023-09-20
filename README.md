@@ -35,4 +35,4 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ## Demo
 
-<video src="Chat Bot.mp4" controls></video>
+[<video src="Chat Bot.mp4" controls></video>](https://github.com/Nehlr1/Chat_Bot_Using_GPT_Model/assets/87631464/91a63081-e6e5-4628-85a2-84faa93d1da7)https://github.com/Nehlr1/Chat_Bot_Using_GPT_Model/assets/87631464/91a63081-e6e5-4628-85a2-84faa93d1da7
